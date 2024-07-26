@@ -1,0 +1,31 @@
+23/07/2024 20:11:16 INFO [PaymentGatewayApplication] Starting PaymentGatewayApplication on khoas-MacBook-Pro.local with PID 80044 (/Users/khoa123/GateWay/target/classes started by khoa123 in /Users/khoa123/GateWay)
+23/07/2024 20:11:16 DEBUG [PaymentGatewayApplication] Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+23/07/2024 20:11:16 INFO [PaymentGatewayApplication] No active profile set, falling back to default profiles: default
+23/07/2024 20:11:24 INFO [PaymentGatewayApplication] Started PaymentGatewayApplication in 7.819 seconds (JVM running for 10.449)
+23/07/2024 21:02:35 INFO [PaymentFactory] Get payment for supplier: STRIPE 
+23/07/2024 21:03:42 INFO [PaymentGatewayApplication] Starting PaymentGatewayApplication on khoas-MacBook-Pro.local with PID 99587 (/Users/khoa123/GateWay/target/classes started by khoa123 in /Users/khoa123/GateWay)
+23/07/2024 21:03:42 DEBUG [PaymentGatewayApplication] Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+23/07/2024 21:03:42 INFO [PaymentGatewayApplication] No active profile set, falling back to default profiles: default
+23/07/2024 21:03:51 INFO [PaymentGatewayApplication] Started PaymentGatewayApplication in 9.159 seconds (JVM running for 10.897)
+23/07/2024 21:05:45 INFO [PaymentFactory] Get payment for supplier: STRIPE 
+23/07/2024 21:07:08 INFO [PaymentGatewayApplication] Starting PaymentGatewayApplication on khoas-MacBook-Pro.local with PID 1126 (/Users/khoa123/GateWay/target/classes started by khoa123 in /Users/khoa123/GateWay)
+23/07/2024 21:07:09 DEBUG [PaymentGatewayApplication] Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+23/07/2024 21:07:09 INFO [PaymentGatewayApplication] No active profile set, falling back to default profiles: default
+23/07/2024 21:07:18 INFO [PaymentGatewayApplication] Started PaymentGatewayApplication in 9.742 seconds (JVM running for 11.069)
+23/07/2024 21:09:04 INFO [PaymentGatewayApplication] Starting PaymentGatewayApplication on khoas-MacBook-Pro.local with PID 1851 (/Users/khoa123/GateWay/target/classes started by khoa123 in /Users/khoa123/GateWay)
+23/07/2024 21:09:04 DEBUG [PaymentGatewayApplication] Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+23/07/2024 21:09:04 INFO [PaymentGatewayApplication] No active profile set, falling back to default profiles: default
+23/07/2024 21:09:13 INFO [PaymentGatewayApplication] Started PaymentGatewayApplication in 9.785 seconds (JVM running for 11.01)
+23/07/2024 21:10:22 INFO [PaymentFactory] Get payment for supplier: STRIPE 
+23/07/2024 21:12:26 INFO [PaymentGatewayApplication] Starting PaymentGatewayApplication on khoas-MacBook-Pro.local with PID 3139 (/Users/khoa123/GateWay/target/classes started by khoa123 in /Users/khoa123/GateWay)
+23/07/2024 21:12:26 DEBUG [PaymentGatewayApplication] Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+23/07/2024 21:12:26 INFO [PaymentGatewayApplication] No active profile set, falling back to default profiles: default
+23/07/2024 21:12:33 INFO [PaymentGatewayApplication] Started PaymentGatewayApplication in 7.49 seconds (JVM running for 8.643)
+23/07/2024 21:13:48 INFO [PaymentGatewayApplication] Starting PaymentGatewayApplication on khoas-MacBook-Pro.local with PID 3746 (/Users/khoa123/GateWay/target/classes started by khoa123 in /Users/khoa123/GateWay)
+23/07/2024 21:13:48 DEBUG [PaymentGatewayApplication] Running with Spring Boot v2.3.7.RELEASE, Spring v5.2.12.RELEASE
+23/07/2024 21:13:48 INFO [PaymentGatewayApplication] The following profiles are active: dev
+23/07/2024 21:13:55 INFO [PaymentGatewayApplication] Started PaymentGatewayApplication in 7.124 seconds (JVM running for 8.007)
+23/07/2024 21:15:11 INFO [PaymentFactory] Get payment for supplier: STRIPE 
+23/07/2024 21:15:50 INFO [PaymentFactory] Get payment for supplier: VNPAY 
+23/07/2024 21:36:22 INFO [PaymentFactory] Get payment for supplier: STRIPE 
+23/07/2024 21:37:06 INFO [PaymentFactory] Get payment for supplier: VNPAY 
